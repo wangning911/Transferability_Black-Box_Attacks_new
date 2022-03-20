@@ -1,0 +1,6 @@
+logs/
+*.h5
+models/
+*.pyc
+*.tar
+
